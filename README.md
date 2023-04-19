@@ -1,6 +1,6 @@
 # Quantum-Computing-3SAT
 
-In this repository, we can find the files used in the bachelor's thesis 'Solving the 3-SAT problem using quantum algorithms' done by Arnau Casau at FIB - UPC Universitat Politècnica de Catalunya currently in development.
+In this repository, we can find the files used in the bachelor's thesis 'Solving the 3-SAT problem using quantum algorithms' done by Arnau Casau at FIB - UPC Universitat Politècnica de Catalunya (currently in development).
 
 Quantum computing is a new and emerging field, and in this thesis, we will see how to solve the 3-SAT problem using quantum algorithms.
 
