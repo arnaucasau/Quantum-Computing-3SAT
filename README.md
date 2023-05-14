@@ -11,3 +11,5 @@ The second part of the thesis explores how classical computers can solve the pro
 In the second notebook, Part-2-3SAT-Grover-Schoning.ipynb, we find an implementation of Schöning's algorithm as the oracle of Grover's algorithm (generalized as Amplitude Amplification). Combining the two algorithms, we achieve a quadratic speedup over Schöning's classical algorithm. In the text file cnf_test2.txt, we can see the formula the notebook uses as input.
 
 To implement all the algorithms, we will use Python and Qiskit, an open-source software development kit (SDK) developed by IBM to work with quantum computers.
+
+The thesis document can be found in CasauPlayaArnau_TFG.pdf. Even though the thesis is currently written in Catalan, it will be translated into English soon!
